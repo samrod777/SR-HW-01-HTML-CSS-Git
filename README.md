@@ -11,6 +11,8 @@ Pertinent comments are included before each section.
 ```
 Links
 
-* The URL of the deployed application.
+* The URL of the deployed application:
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+
+* The URL of the GitHub repository:
+https://github.com/samrod777/SR-HW-01-HTML-CSS-Git/tree/master
