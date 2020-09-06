@@ -8,11 +8,12 @@ To improve the given codebase for long term sustainability; all links were check
 CSS selectors and properties were consolidated, they were organized to follow the semantic structure of the HTML elements.
 Pertinent comments are included before each section.
  
+ 
 ```
 Links
 
 * The URL of the deployed application:
-
+https://samrod777.github.io/SR-HW-01-HTML-CSS-Git/
 
 * The URL of the GitHub repository:
 https://github.com/samrod777/SR-HW-01-HTML-CSS-Git/tree/master
